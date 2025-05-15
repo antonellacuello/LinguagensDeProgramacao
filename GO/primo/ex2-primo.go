@@ -1,0 +1,1 @@
+/* Dado um inteiro positivo n, verificar se n é primo. */
